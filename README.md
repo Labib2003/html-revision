@@ -74,4 +74,4 @@ They can be linked with a label tag by changing the labels for attribute to the 
 required is a boolean attribute that prevents the user from submitting the form without filling a perticuler field.
 maxlength adds a charecter limit to text inputs.
 placeholder attribute adds placeholder text in the field.
-radio inputs must have same value under the name attribute to function as intended (only one can be selected).
+radio inputs must have same value under the name attribute to function as intended (only one can be selected).# html-revision
